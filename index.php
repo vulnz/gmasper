@@ -1,4 +1,6 @@
 <?php
+error_reporting(0);
+
 $emailgot=$_GET["name"];	
 $from=$_GET["from"];
 
@@ -47,7 +49,7 @@ $mail->Subject = 'Example title';
 $mail->Body = 'Example content:'.$html.' ';
 
 if (!$mail->send()) {
-	echo " Mail error";
+	echo " Mail Not sent. Please check installation guide.";
    // echo "Mailer Error: " . $mail->ErrorInfo;
 } else {
     echo " Mail send";
