@@ -29,7 +29,7 @@ Add at line 15 your emails**
 
 `index.php` = configuration file
 
-`start.bat` = file that should be start after it was generated in order to
+`start.bat` = file that should be start after it was generated in order to make single requests using curl to our index.php file in order to send emails
 
 `mail.txt` = put emails where you wish to send 
 
