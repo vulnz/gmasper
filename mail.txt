@@ -1,0 +1,4 @@
+test@mail.com
+example@example.com
+tester@mail.com
+tested@mail.com

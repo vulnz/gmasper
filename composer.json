@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/apiclient-services": "dev-master",
+        "phpmailer/phpmailer": "^6.0"
+    }
+}
