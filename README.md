@@ -39,7 +39,7 @@ Add at line 15 your emails**
 
 
 **Usage**
-After you filled all required lines 
+After you filled all required lines navigate to maker.php and it generates start.bat - press it and process will start.
 
 
 
