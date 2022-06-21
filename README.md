@@ -2,7 +2,6 @@
 
  **Gmail Spammer.**
 
-![enter image description here](http://oi68.tinypic.com/mkceme.jpg)
 
 Add random emails in order to send from different email adresses emails to your subscribers. 
 
